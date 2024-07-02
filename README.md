@@ -1,3 +1,5 @@
+#Introduction
+
 >The identification of bird species plays a vital role in various domains, including wildlife conservation, ecological research, and biodiversity monitoring.
 >However, manual identification of bird species from images can be a time-consuming and error-prone task, especially with the vast number of avian species present worldwide.
 >The project "WingMatch: Advanced Image-Based Bird Species Recognition System" presents a novel and highly accurate approach for automatically classifying bird species from images using the powerful Exception architecture.
