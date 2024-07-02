@@ -1,0 +1,14 @@
+Bird Species Identification Using Deep Learning.
+
+Algorithm / Model used: Xception Architecture.
+
+Training Accuracy: 99%.
+Validation Accuracy: 97%.
+
+Dataset: 510 Bird Species
+Total Images in dataset: 60,388.
+
+
+
+
+ 
